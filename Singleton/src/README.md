@@ -1,0 +1,1 @@
+Source: https://medium.com/@kevalpatel2106/how-to-make-the-perfect-singleton-de6b951dfdb0
