@@ -1,6 +1,6 @@
-package lazyinitialization.main;
+package singleton.lazyinitialization.main;
 
-import lazyinitialization.singleton.LazyInitializeSingleton;
+import singleton.lazyinitialization.singleton.LazyInitializeSingleton;
 
 public class ObtainTwoInstanceMultiThreadMain {
 	public static void main(String[] args) {

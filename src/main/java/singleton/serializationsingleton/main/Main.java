@@ -1,4 +1,4 @@
-package serializationsingleton.main;
+package singleton.serializationsingleton.main;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -8,7 +8,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;
 
-import serializationsingleton.singleton.SerializationSingleton;
+import singleton.serializationsingleton.singleton.SerializationSingleton;
 
 public class Main {
 	public static void main(String[] args) {

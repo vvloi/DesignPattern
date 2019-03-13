@@ -1,9 +1,9 @@
-package lazyinitialization.main;
+package singleton.lazyinitialization.main;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-import lazyinitialization.singleton.LazyInitializeSingleton;
+import singleton.lazyinitialization.singleton.LazyInitializeSingleton;
 
 public class ObtainTwoInstanceViaReflectionMain {
 	public static void main(String[] args) {

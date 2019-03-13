@@ -1,4 +1,4 @@
-package serializationsingleton.singleton;
+package singleton.serializationsingleton.singleton;
 
 import java.io.Serializable;
 
@@ -24,8 +24,7 @@ public class SerializationSingleton implements Serializable {
 		return serializationSingleton;
 	}
 	
-	//Make singleton from serialize and deserialize operation.
-    protected SerializationSingleton readResolve() {
-        return getInstance();
-    }
+	private Object readResolve()  {
+	    return getInstance();
+	}
 }

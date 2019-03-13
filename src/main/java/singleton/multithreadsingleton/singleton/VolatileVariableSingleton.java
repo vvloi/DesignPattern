@@ -1,4 +1,4 @@
-package multithreadsingleton.singleton;
+package singleton.multithreadsingleton.singleton;
 
 import java.io.Serializable;
 

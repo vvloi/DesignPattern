@@ -1,4 +1,4 @@
-package reflectionsingleton.singleton;
+package singleton.reflectionsingleton.singleton;
 
 /**
  * When use lazy initialization singleton, reflection api will create new instance.

@@ -1,4 +1,4 @@
-package eagerinitialization.singleton;
+package singleton.eagerinitialization.singleton;
 
 /**
  * In eager initialization,

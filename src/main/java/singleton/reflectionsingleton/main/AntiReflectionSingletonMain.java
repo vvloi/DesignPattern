@@ -1,9 +1,9 @@
-package reflectionsingleton.main;
+package singleton.reflectionsingleton.main;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-import reflectionsingleton.singleton.AntiReflectionSingleton;
+import singleton.reflectionsingleton.singleton.AntiReflectionSingleton;
 
 public class AntiReflectionSingletonMain {
 	public static void main(String[] args) {

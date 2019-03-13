@@ -1,4 +1,4 @@
-package multithreadsingleton.main;
+package singleton.multithreadsingleton.main;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -8,7 +8,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;
 
-import multithreadsingleton.singleton.VolatileVariableSingleton;
+import singleton.multithreadsingleton.singleton.VolatileVariableSingleton;
 
 public class ObtainTwoInstanceSerializationMain {
 	public static void main(String[] args) {

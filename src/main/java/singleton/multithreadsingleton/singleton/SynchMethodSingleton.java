@@ -1,4 +1,4 @@
-package multithreadsingleton.singleton;
+package singleton.multithreadsingleton.singleton;
 
 /**
  * pros: prevent obtain two instance when call getInstance from multi thread

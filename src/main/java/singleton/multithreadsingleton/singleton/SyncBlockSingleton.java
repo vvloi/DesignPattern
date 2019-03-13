@@ -1,4 +1,4 @@
-package multithreadsingleton.singleton;
+package singleton.multithreadsingleton.singleton;
 
 /**
  * pros: the synchronized block will be executed only when the syncBlockSingleton is null 

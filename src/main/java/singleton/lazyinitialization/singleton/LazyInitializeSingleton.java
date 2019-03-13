@@ -1,4 +1,4 @@
-package lazyinitialization.singleton;
+package singleton.lazyinitialization.singleton;
 
 /**
  * Opposite to Eager initialization

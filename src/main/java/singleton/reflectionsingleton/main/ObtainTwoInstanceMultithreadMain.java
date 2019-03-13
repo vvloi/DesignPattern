@@ -1,6 +1,6 @@
-package reflectionsingleton.main;
+package singleton.reflectionsingleton.main;
 
-import reflectionsingleton.singleton.AntiReflectionSingleton;
+import singleton.reflectionsingleton.singleton.AntiReflectionSingleton;
 
 public class ObtainTwoInstanceMultithreadMain {
 	public static void main(String[] args) {		
